@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "club.someoneice.rmid.mixin",
+  "refmap": "mixins.rmid.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "GameRegistryMixin"
+  ]
+}
